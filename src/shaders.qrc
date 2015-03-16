@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/" >
+		<file>shaders/raytracer_frag.glsl</file>
+		<file>shaders/raytracer_vert.glsl</file>
+	</qresource>
+</RCC>

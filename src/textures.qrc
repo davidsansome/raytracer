@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="/" >
+		<file>textures/checkerboard.png</file>
+	</qresource>
+</RCC>
